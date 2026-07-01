@@ -1,0 +1,31 @@
+{
+  "video_goals": [
+    "原生自然流",
+    "测款素材",
+    "TikTok Shop 转化"
+  ],
+  "content_categories": [],
+  "shot_structure": "自动判断",
+  "output_count": 10,
+  "output_format": "Seedance 2.0 标准完整提示词",
+  "dedup_level": "高",
+  "stability_mode": "平衡模式",
+  "camera_language": [
+    "vertical 9:16",
+    "stable phone UGC footage",
+    "720P native output",
+    "Standard HD render mode",
+    "fabric texture detail preserved"
+  ],
+  "emotional_styles": [
+    "realistic TikTok creator tone",
+    "organic try-on moment"
+  ],
+  "voiceover_style": [
+    "自动判断"
+  ],
+  "caption_style": [
+    "不要字幕"
+  ],
+  "cta_style": "弱 CTA"
+}
