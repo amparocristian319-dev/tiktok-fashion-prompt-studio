@@ -1,0 +1,18 @@
+{
+  "video_goals": [
+    "原生自然流",
+    "测款素材",
+    "服装卖点展示"
+  ],
+  "content_categories": [
+    "单人试穿展示",
+    "GRWM 出门前穿搭",
+    "POV 原生剧情",
+    "Fit Test 服装测试"
+  ],
+  "shot_structure": "自动判断",
+  "output_count": 10,
+  "output_format": "全部输出",
+  "dedup_level": "高",
+  "stability_mode": "平衡模式"
+}
